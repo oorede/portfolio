@@ -5,7 +5,7 @@ design, and digital services.
 
 ## Demo
 
-You can view my live portfolio at: (https://portfolio-git-main-oussama-hms-projects-8e1b7b77.vercel.app/)  
+You can view my live portfolio at: (https://www.oussamahm.xyz/)
 
 ## Features
 
