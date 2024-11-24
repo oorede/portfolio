@@ -5,7 +5,7 @@ design, and digital services.
 
 ## Demo
 
-You can view my live portfolio at: (https://www.oussamahm.xyz/)
+You can view my live portfolio at: (https://oussamahm.xyz/)
 
 ## Features
 
